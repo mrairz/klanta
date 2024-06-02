@@ -6,8 +6,7 @@ import json
 def create_folder_structure_json(path): 
     # Initialize the result dictionary with folder 
     # name, type, and an empty list for children 
-    result = {'name': os.path.basename(path), 
-              'children': []} 
+    result = {'children': []} 
   
     # Check if the path is a directory 
     if not os.path.isdir(path): 

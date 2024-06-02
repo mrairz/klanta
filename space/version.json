@@ -1,8 +1,6 @@
 {
-    "name": "version",
     "children": [
         {
-            "name": "1.20.1",
             "children": [
                 {
                     "name": "1.20.1.jar"
@@ -13,10 +11,8 @@
             ]
         },
         {
-            "name": "Space 1.20.1",
             "children": [
                 {
-                    "name": "natives",
                     "children": [
                         {
                             "name": "glfw.dll"
