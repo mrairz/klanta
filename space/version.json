@@ -1,0 +1,56 @@
+{
+    "name": "version",
+    "children": [
+        {
+            "name": "1.20.1",
+            "children": [
+                {
+                    "name": "1.20.1.jar"
+                },
+                {
+                    "name": "1.20.1.json"
+                }
+            ]
+        },
+        {
+            "name": "Space 1.20.1",
+            "children": [
+                {
+                    "name": "natives",
+                    "children": [
+                        {
+                            "name": "glfw.dll"
+                        },
+                        {
+                            "name": "jemalloc.dll"
+                        },
+                        {
+                            "name": "jna6305122984908977696.dll"
+                        },
+                        {
+                            "name": "jna6305122984908977696.dll.x"
+                        },
+                        {
+                            "name": "lwjgl.dll"
+                        },
+                        {
+                            "name": "lwjgl_opengl.dll"
+                        },
+                        {
+                            "name": "lwjgl_stb.dll"
+                        },
+                        {
+                            "name": "OpenAL.dll"
+                        }
+                    ]
+                },
+                {
+                    "name": "Space 1.20.1.jar"
+                },
+                {
+                    "name": "Space 1.20.1.json"
+                }
+            ]
+        }
+    ]
+}

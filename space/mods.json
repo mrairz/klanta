@@ -1,0 +1,236 @@
+{
+    "name": "mods",
+    "children": [
+        {
+            "name": "advancementinfo-1.20-fabric0.83.0-1.4.jar"
+        },
+        {
+            "name": "AmbientSounds_FABRIC_v5.3.8_mc1.20.1.jar"
+        },
+        {
+            "name": "animatica-0.6+1.20.jar"
+        },
+        {
+            "name": "badpackets-fabric-0.4.3.jar"
+        },
+        {
+            "name": "bettermounthud-1.2.2.jar"
+        },
+        {
+            "name": "borderless-mining-1.1.8+1.20.1.jar"
+        },
+        {
+            "name": "capes-1.5.2+1.20-fabric.jar"
+        },
+        {
+            "name": "chunksfadein-v1.0.5-1.20.1.jar"
+        },
+        {
+            "name": "CITResewn-1.1.3+1.20.jar"
+        },
+        {
+            "name": "cloth-config-11.1.118-fabric.jar"
+        },
+        {
+            "name": "Clumps-fabric-1.20.1-12.0.0.3.jar"
+        },
+        {
+            "name": "cmdkeybind-1.6.3-1.20.jar"
+        },
+        {
+            "name": "collective-1.20.1-7.28.jar"
+        },
+        {
+            "name": "completeconfig-2.4.1.jar"
+        },
+        {
+            "name": "continuity-3.0.0-beta.4+1.20.1.jar"
+        },
+        {
+            "name": "Controlify-1.7.0-beta.1+1.20.jar"
+        },
+        {
+            "name": "CreativeCore_FABRIC_v2.11.16_mc1.20.1.jar"
+        },
+        {
+            "name": "custom-crosshair-mod-v1.5.3-fabric-mc1.20.1.jar"
+        },
+        {
+            "name": "Debugify-1.20.1+2.0.jar"
+        },
+        {
+            "name": "Ding-1.20.1-Fabric-1.4.1.jar"
+        },
+        {
+            "name": "dynamic-fps-3.3.3+minecraft-1.20.0.jar"
+        },
+        {
+            "name": "e4mc-4.0.1+1.19.4-fabric.jar"
+        },
+        {
+            "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+        },
+        {
+            "name": "enhancedblockentities-0.9+1.20.jar"
+        },
+        {
+            "name": "entityculling-fabric-1.6.2-mc1.20.1.jar"
+        },
+        {
+            "name": "entity_model_features_fabric_1.20.1-1.2.3.jar"
+        },
+        {
+            "name": "entity_texture_features_fabric_1.20.1-5.2.3.jar"
+        },
+        {
+            "name": "fabric-api-0.91.1+1.20.1.jar"
+        },
+        {
+            "name": "fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar"
+        },
+        {
+            "name": "fabricskyboxes-0.7.3+mc1.20.1.jar"
+        },
+        {
+            "name": "fabrishot-1.10.1.jar"
+        },
+        {
+            "name": "fastquit-3.0.0+1.20+.jar"
+        },
+        {
+            "name": "ferritecore-6.0.1-fabric.jar"
+        },
+        {
+            "name": "FogLooksGoodNow-2.2.0+1.20.1.jar"
+        },
+        {
+            "name": "fpsdisplay-3.1.0+1.20.x.jar"
+        },
+        {
+            "name": "fsb-interop-1.3.6+mc1.20.1-build.50.jar"
+        },
+        {
+            "name": "Gamma-Utils-1.7.16-mc1.20.1.jar"
+        },
+        {
+            "name": "guiclock-1.20.1-4.4.jar"
+        },
+        {
+            "name": "ImmediatelyFast-Fabric-1.2.10+1.20.4.jar"
+        },
+        {
+            "name": "indium-1.0.30+mc1.20.4.jar"
+        },
+        {
+            "name": "iris-mc1.20.1-1.6.17.jar"
+        },
+        {
+            "name": "ItemPhysic_FABRIC_v1.7.0_mc1.20.1.jar"
+        },
+        {
+            "name": "items-timer-1.1.jar"
+        },
+        {
+            "name": "JumpersPizzeria-1.3.1-1.20.1.jar"
+        },
+        {
+            "name": "krypton-0.2.3.jar"
+        },
+        {
+            "name": "lambdynamiclights-2.3.1+1.20.1.jar"
+        },
+        {
+            "name": "language-reload-1.5.10+1.20.1.jar"
+        },
+        {
+            "name": "lazydfu-0.1.3.jar"
+        },
+        {
+            "name": "lithium-fabric-mc1.20.1-0.11.2.jar"
+        },
+        {
+            "name": "mixintrace-1.1.1+1.17.jar"
+        },
+        {
+            "name": "modelfix-1.14-fabric.jar"
+        },
+        {
+            "name": "modernfix-fabric-5.13.0+mc1.20.1.jar"
+        },
+        {
+            "name": "modmenu-7.2.2.jar"
+        },
+        {
+            "name": "mods.zip"
+        },
+        {
+            "name": "morechathistory-1.3.0.jar"
+        },
+        {
+            "name": "MoreCosmetics-Fabric-1.20.jar"
+        },
+        {
+            "name": "mru-0.4.0+1.20.jar"
+        },
+        {
+            "name": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
+        },
+        {
+            "name": "optigui-2.1.7.jar"
+        },
+        {
+            "name": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+        },
+        {
+            "name": "Rrls-3.2.0-1.20.1-fabric.jar"
+        },
+        {
+            "name": "screenshot-to-clipboard-1.0.9-fabric(1).jar"
+        },
+        {
+            "name": "skinlayers3d-fabric-1.6.2-mc1.20.1.jar"
+        },
+        {
+            "name": "sodium-extra-0.5.4+mc1.20.1-build.115.jar"
+        },
+        {
+            "name": "sodium-fabric-0.5.8+mc1.20.1.jar"
+        },
+        {
+            "name": "soundphysics-fabric-1.20.1-1.3.0.jar"
+        },
+        {
+            "name": "starlight-1.1.2+fabric.dbc156f.jar"
+        },
+        {
+            "name": "tnttime-mc1.20.1-1.3.0.jar"
+        },
+        {
+            "name": "voicechat-fabric-1.20.1-2.5.2.jar"
+        },
+        {
+            "name": "WaterPlayer-1.0.0.jar"
+        },
+        {
+            "name": "weather-changer-fabric-1.0.0.jar"
+        },
+        {
+            "name": "WorldEditCUI-1.20-01.jar"
+        },
+        {
+            "name": "wraith-colormeoutlines-1.1.2-1.20.jar"
+        },
+        {
+            "name": "wthit-fabric-8.6.0.jar"
+        },
+        {
+            "name": "yet-another-config-lib-fabric-3.2.1+1.20.jar"
+        },
+        {
+            "name": "yosbr-0.1.2.jar"
+        },
+        {
+            "name": "Zoomify-2.11.2(1).jar"
+        }
+    ]
+}
