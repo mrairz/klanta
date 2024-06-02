@@ -4,9 +4,9 @@
         "official_site": "https://www.klanta.space"
     },
     "klantaspace": {
-        "version_url": "https://www.dropbox.com/scl/fi/timoa7800ue633mw4p88v/version.zip?rlkey=3pgekukg7iok9j47802epad0r&st=bgn9i6wf&dl=1",
-        "mods_url": "https://www.dropbox.com/scl/fi/tpopepwamtt5b18rf04ry/mods.zip?rlkey=hbufk3ckhzvs1omoob14awkz5&st=jqrqzeh6&dl=1",
-        "version_structure_url": "",
-        "mods_structure_url": ""
+        "version_url": "https://github.com/mrairz/klanta/space/version",
+        "mods_url": "https://github.com/mrairz/klanta/space/mods",
+        "version_structure_url": "https://github.com/mrairz/klanta/space/version.json",
+        "mods_structure_url": "https://github.com/mrairz/klanta/space/mods.json"
     }
 }
