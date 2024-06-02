@@ -13,6 +13,50 @@
         {
             "children": [
                 {
+                    "name": "fabric-loader-0.15.11-1.20.1.jar"
+                },
+                {
+                    "name": "fabric-loader-0.15.11-1.20.1.json"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "glfw.dll"
+                        },
+                        {
+                            "name": "jemalloc.dll"
+                        },
+                        {
+                            "name": "jna14966688539357119722.dll"
+                        },
+                        {
+                            "name": "jna14966688539357119722.dll.x"
+                        },
+                        {
+                            "name": "jna307462985588357730.dll"
+                        },
+                        {
+                            "name": "jna307462985588357730.dll.x"
+                        },
+                        {
+                            "name": "lwjgl.dll"
+                        },
+                        {
+                            "name": "lwjgl_opengl.dll"
+                        },
+                        {
+                            "name": "lwjgl_stb.dll"
+                        },
+                        {
+                            "name": "OpenAL.dll"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "children": [
+                {
                     "children": [
                         {
                             "name": "glfw.dll"
